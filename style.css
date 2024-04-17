@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(136, 229, 198);
+}
+.box{
+    width: 40%;
+    height: 470px;
+    margin:  auto;
+    background-color: white;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    border-radius: 0.5cm;
+}
+h1{
+
+  top:2rem ;
+    color: rgb(4, 4, 51);
+    font-style: unset;
+    font-size: 25px;
+}
+h2{
+    position: relative;
+   top:2.5rem;
+    font-size: 15px;
+    color: rgb(182, 182, 182);
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    width: 250px;
+    height: 250px;
+    position: relative;
+   top: 3rem;
+   border-radius: 0.5cm;
+ 
+}
